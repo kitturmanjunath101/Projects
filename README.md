@@ -124,3 +124,36 @@ Made with ❤️ by Kittur Manjunath
 
 
 
+
+
+
+# 🚀 Cryptocurrency Price Tracker using Python
+
+A simple Python project to track real-time prices of popular cryptocurrencies like Bitcoin, Ethereum, Dogecoin, etc. 📈✨  
+It fetches the latest data using the **CoinGecko API** — which is totally free and accurate! 🔥
+
+---
+
+## 📦 Features
+
+- ✅ Fetch real-time cryptocurrency prices
+- ✅ Support for multiple cryptocurrencies
+- ✅ Free and easy to use API (no API key required)
+- ✅ Simple and clean Python code
+- ✅ Perfect for beginners learning APIs and JSON handling
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- `requests` library
+
+You can install the required library using:
+
+```bash
+pip install requests
+
+
+
+
